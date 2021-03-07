@@ -2,7 +2,7 @@
 name: Sygjerime për gjëra të reja
 about: Sygjeroni një ide për këtë projekt
 title: "[SYGJERIM] - "
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---
