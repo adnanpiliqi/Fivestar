@@ -1,7 +1,7 @@
 ---
 name: Raporte per GLITCH-a
 about: Krijoni një raport për të na ndihmuar të përmirësohemi
-title: "[GLITCH] - "
+title: ''
 labels: bug
 assignees: ''
 
